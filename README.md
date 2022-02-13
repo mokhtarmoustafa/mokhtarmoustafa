@@ -1,5 +1,5 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1 align="center">Hi 👋, I'm Mokhtar</h1>
+
+<h1 align="center">### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mokhtar</h1>
 <h3 align="center">A self-taught programmer with passion to lean more😜</h3>
 
 I'm a passionate self-taught full stack mobile developer and a freelance software engineer from egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
