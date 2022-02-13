@@ -1,12 +1,24 @@
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">Hi 👋, I'm Mokhtar</h1>
 <h3 align="center">A self-taught programmer with passion to lean more😜</h3>
 
+- Im a passionate self-taught full stack mobile developer and a freelance software engineer from egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose **
 
 - 👯 I’m looking to collaborate with **other content creators**
 
 - ⚡ Fun fact **I love paying with code.**
+
+- 💼 any freelance work? do reach, [email](mailto:mokhtar.rnd@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/mokhtarrndJ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ### Connect with me:
 
