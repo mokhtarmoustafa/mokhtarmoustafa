@@ -2,8 +2,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mokhtar</h1>
 <h3 >A self-taught programmer with passion to lean more😜</h3>
 
-I'm a passionate self-taught full stack mobile developer and a freelance software engineer from egypt. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
+I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 - 🌱 I’m currently learning **Flutter, Jetpack Compose **
