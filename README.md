@@ -9,7 +9,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love paying with code.**
+- ⚡ Fun fact **I love playing with code.**
 
 - 💼 any freelance work? do reach, [email](mailto:mokhtar.rnd@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
