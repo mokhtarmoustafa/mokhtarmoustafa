@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mokhtar</h1>
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Mokhtar</h1>
 <h3 >A self-taught programmer with passion to lean more😜</h3>
 
 I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
