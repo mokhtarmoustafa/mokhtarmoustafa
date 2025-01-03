@@ -1,37 +1,40 @@
-<h1 align="center">Hey there 👋, I'm Mokhtar</h1>
-<h3 align="center">Senior Android Developer | Passionate about building exceptional mobile experiences</h3>
 
-I'm a highly motivated and results-oriented Senior Android Developer with **[Number] years of experience** in designing, developing, and deploying robust and user-friendly mobile applications. I possess a strong understanding of Android development principles, including **Kotlin Coroutines, MVVM architecture, and Jetpack Compose**, and have a proven track record of successfully delivering high-quality applications.
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Mokhtar</h1>
+<h3 >A self-taught programmer with passion to lean more😜</h3>
 
-**Key Skills:**
+I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-* **Languages:** Kotlin, Java
-* **Frameworks/Libraries:** Jetpack Compose, Flutter, Android SDK, Retrofit, Room, Dagger/Hilt, RxJava/Kotlin Coroutines
-* **Testing:** Unit Testing, UI Testing, Espresso, JUnit
-* **Tools:** Android Studio, Git, Gradle
+- 🌱 I’m currently learning **Flutter, Jetpack Compose **
 
-**Projects:**
+- 👯 I’m looking to collaborate with **other content creators**
 
-* **[Project 1 Name]:** [Short description of the project, its key features, and technologies used. Quantify achievements whenever possible. E.g., "Developed a [Type] application that increased user engagement by [Percentage]."]
-* **[Project 2 Name]:** [Short description of the project, its key features, and technologies used. Quantify achievements whenever possible.]
-* **[Project 3 Name]:** [Short description of the project, its key features, and technologies used. Quantify achievements whenever possible.]
+- ⚡ Fun fact **I love playing with code.**
 
-**Contributions:**
+- 💼 any freelance work? do reach, [email](mailto:mokhtar.rnd@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-* [List any contributions to open-source projects, including links to repositories.]
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-**Learning & Growth:**
+<a href="https://www.buymeacoffee.com/mokhtarrndJ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-* I'm a continuous learner with a strong passion for staying updated with the latest advancements in the Android ecosystem. 
-* Currently exploring and learning **Advanced Kotlin features, Compose Animation, and State Management.**
+<br />
 
-**Looking for:**
+### Languages and Tools:
 
-* Collaborate on challenging and impactful Android projects.
-* Opportunities to contribute to open-source projects.
-* Mentorship opportunities for aspiring Android developers.
+<p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/>
+ <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="Microsoft .Net" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="22" height="22"/>  
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/>
+</p>
 
-**Connect with me:**
-
-<p><a href="https://github.com/mokhtarmoustafa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Mokhtar35566639" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mokhtarmostafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<h3>Where to find me</h3>
+<p><a href="https://github.com/mokhtarmoustafa" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Mokhtar35566639" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mokhtarmostafa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
