@@ -1,17 +1,18 @@
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Mokhtar</h1>
-<h3 >A self-taught programmer with passion to lean more😜</h3>
+<h3 align="center">Senior Android Developer | Building Exceptional Mobile Experiences</h3>
 
-I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm a seasoned Android Developer with a proven track record of successfully designing, developing, and deploying high-quality mobile applications. I possess a strong understanding of Android development principles and a deep passion for creating exceptional user experiences.
 
-- 🌱 I’m currently learning **Flutter, Jetpack Compose **
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 🌱 I'm currently deepening my expertise in Jetpack Compose and Kotlin Multiplatform Mobile (KMM).
 
-- ⚡ Fun fact **I love playing with code.**
+- 👯 I'm actively seeking opportunities to collaborate with other developers on challenging and impactful projects.
+
+- ⚡ I find immense satisfaction in the creative process of writing code and solving complex problems.
 
 - 💼 any freelance work? do reach, [email](mailto:mokhtar.rnd@gmail.com) :)
+  
 - 💬 ask me about anything, i am happy to help;
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
