@@ -5,7 +5,7 @@
 I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-- 🌱 I’m currently learning **Flutter, Jetpack Compose **
+- 🌱 I’m currently learning **KMM, Jetpack Compose **
 
 - 👯 I’m looking to collaborate with **other content creators**
 
